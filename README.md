@@ -8,7 +8,7 @@
     </p>
   </div>
   <div style="flex: 1; min-width: 250px; align: right;">
-    <img style="height: 150px; width: 250px;" alt="GIF" src="https://raw.githubusercontent.com/Zhyizhouu/Zhyizhouu/main/gif/acheron.gif"/>
+    <img style="height: 250px; width: 400px;" alt="GIF" src="https://raw.githubusercontent.com/Zhyizhouu/Zhyizhouu/main/gif/acheron.gif"/>
   </div>
 </div>
 
