@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Alfred 🚀🚀
+
+- 🌱 I’m currently in a **Bootcamp** (Fullstack Web Developer) from [**Eduwork**](eduwork.id)
 
 <!--
 **Zhyizhouu/Zhyizhouu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
