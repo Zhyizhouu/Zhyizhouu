@@ -7,10 +7,7 @@
       - 📖 I'm currently a High School Student
     </p>
   </div>
-  <div style="flex: 1; min-width: 250px; align: right;">
-    <img style="height: 150px; width: 250px;" alt="GIF" src="https://raw.githubusercontent.com/Zhyizhouu/Zhyizhouu/main/gif/acheron.gif"/>
-  </div>
-</div>
+<img align="right" height="150" width="400" alt="GIF" src="gif/acheron.gif"/>
 
 ---
 
