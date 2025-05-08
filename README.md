@@ -3,9 +3,9 @@
 - 🌱 I’m currently in a **Bootcamp** (Fullstack Web Developer) from [**Eduwork**](eduwork.id)
 - 📖 I'm currently a High School Student
 
-![Acheron](https://upload-os-bbs.hoyolab.com/upload/2024/04/11/8009863/da9c9c5585c380cd3496460b59ab8eb8_1413742237217483160.gif)
+![Acheron](gif/acheron.gif)
 
-
+gi
 
 <!--
 **Zhyizhouu/Zhyizhouu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
