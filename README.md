@@ -7,15 +7,20 @@
       - 📖 I'm currently a High School Student
     </p>
   </div>
-
-<img align="right" height="220" width="400" alt="GIF" src="gif/acheron.gif"/>
+  <div style="flex: 1; min-width: 250px; align: right;">
+    <img style="height: 150px; width: 250px;" alt="GIF" src="https://raw.githubusercontent.com/Zhyizhouu/Zhyizhouu/main/gif/acheron.gif"/>
+  </div>
+</div>
 
 ---
 
 #### Skills
 
-![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</div>
 
 ---
 
