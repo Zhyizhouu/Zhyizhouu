@@ -3,8 +3,8 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
   <div style="flex: 1; min-width: 250px;">
     <p>
-      - 🌱 I’m currently in a <b>Bootcamp</b> (Fullstack Web Developer) from <b><a href="https://eduwork.id" target="_blank">Eduwork</a></b><br>
-      - 📖 I'm currently a High School Student
+      - 🌱 I’m currently working as a <b>Junior Software Laboratory Assistant</b> from BINUS University</a></b><br>
+      - 📖 I'm currently a Student @BINUS University
     </p>
   </div>
   <div style="flex: 1; min-width: 250px; align: right;">
