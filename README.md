@@ -3,8 +3,8 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
   <div style="flex: 1; min-width: 250px;">
     <p>
-      - 🌱 I’m currently working as a <b>Junior Software Laboratory Assistant</b> from BINUS University</a></b><br>
-      - 📖 I'm currently a Student @BINUS University
+      - 🌱 Currently working as a <b>Junior Software Laboratory Assistant</b> from BINUS University</a></b><br>
+      - 📖 Currently a Student @BINUS University
     </p>
   </div>
   <div style="flex: 1; min-width: 250px; align: right;">
